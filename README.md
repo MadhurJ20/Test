@@ -1,1 +1,1 @@
-"# Start Contributing" 
+Started Contributing
